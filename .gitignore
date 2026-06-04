@@ -15,3 +15,5 @@ staticfiles/
 
 # macOS
 .DS_Store
+
+DEPLOY_AZURE.md
