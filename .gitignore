@@ -10,7 +10,7 @@ __pycache__/
 .env
 
 # Local database and static build output
-db.sqlite3
+*/db.sqlite3
 staticfiles/
 
 # macOS
